@@ -1,0 +1,30 @@
+/*---------------------reset--------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+img {
+    display: block;
+}
+ul {
+    list-style-type: none;
+}
+
+
+/* --------------utility--------------- */
+.flex {
+    display: flex;
+}
+.just-between {
+    justify-content: space-between;
+}
+
+
+
+
+
+
+/* ------------------header----------------- */
