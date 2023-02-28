@@ -1,0 +1,16 @@
+.head-box:hover {
+    border-bottom: 1.5px solid black;
+}
+
+.button:hover {
+    background-color: #2e7efd;
+    padding: 6px 8px;
+    border-radius: 10px;
+    color: white;
+}
+.e-card:hover .discover{
+    display: block;
+}
+.e-card:hover i {
+    rotate: 180deg;   
+}
