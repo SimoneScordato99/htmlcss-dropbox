@@ -1,7 +1,6 @@
-.head-box:hover {
+.head-box:hover:not(#logo, #inizia) {
     border-bottom: 1.5px solid black;
 }
-
 .button:hover {
     background-color: #2e7efd;
     padding: 6px 8px;
